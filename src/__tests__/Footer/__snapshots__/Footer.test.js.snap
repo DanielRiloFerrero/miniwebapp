@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer tests render 1`] = `
+<div>
+  <footer
+    class="footer"
+  >
+    <div
+      class="container"
+    >
+      Desarrollado por
+       
+      <a
+        href="https://www.linkedin.com/in/danielrf/"
+      >
+        Daniel Rilo
+      </a>
+    </div>
+  </footer>
+</div>
+`;

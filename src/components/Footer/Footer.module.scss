@@ -1,0 +1,8 @@
+@import '../../_assets/styles/abstracts/vars.scss';
+
+.footer {
+  flex-shrink: 0;
+  background-color: $primary-color;
+  padding: $p-xs 0;
+  color: $secondary-color;
+}

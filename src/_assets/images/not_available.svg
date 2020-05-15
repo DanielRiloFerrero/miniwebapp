@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="370"
+   height="333"
+   viewBox="202 482 370 333">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+      <rect
+         ry="22.220797"
+         rx="22.758728"
+         y="493.79077"
+         x="218.57143"
+         height="305.71429"
+         width="337.14285"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M 224.28572,792.36218 L 548.57143,498.07647"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:4.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="M 550.71429,793.79075 L 226.42858,499.50504"
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:4.30000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         y="603.79077"
+         x="385.71429"
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           y="603.79077"
+           x="385.71429"
+           id="tspan3165"
+           sodipodi:role="line">Picture</tspan><tspan
+           style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           id="tspan3167"
+           y="653.79077"
+           x="385.71429"
+           sodipodi:role="line">not yet</tspan><tspan
+           style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           id="tspan3169"
+           y="703.79077"
+           x="385.71429"
+           sodipodi:role="line">available.</tspan></text>
+</svg>

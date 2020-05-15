@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainSection tests render 1`] = `
+<div>
+  <section
+    class="wrapper"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="input-group"
+      >
+        <input
+          class="form-control"
+          id="search"
+          type="text"
+        />
+        <div
+          class="input-group-append"
+        >
+          <button
+            class="btn btn-secondary"
+            type="button"
+          >
+            Buscar
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      class="container"
+    >
+      
+    </div>
+  </section>
+</div>
+`;

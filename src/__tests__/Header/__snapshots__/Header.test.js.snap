@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header tests render 1`] = `
+<div>
+  <header
+    class="header"
+  >
+    <div
+      class="container"
+    >
+      <a
+        href="/"
+      >
+        Miniwebapp
+      </a>
+    </div>
+  </header>
+</div>
+`;
